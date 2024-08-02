@@ -1,13 +1,21 @@
-import Layout from "./admin/layout"
+// import Layout from "./admin/layout"
+
+// function page() {
+//   return (
+//     <>
+
+//     <Layout/>
+
+//     </>
+//   )
+// }
+
+// export default page
+
+import React from "react";
 
 function page() {
-  return (
-    <>
-   
-    <Layout/>
-    
-    </>
-  )
+  return <div>page</div>;
 }
 
-export default page
+export default page;
